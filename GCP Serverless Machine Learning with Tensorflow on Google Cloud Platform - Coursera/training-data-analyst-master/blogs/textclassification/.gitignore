@@ -1,0 +1,4 @@
+outputdir
+vocab.tsv
+.*
+*.csv
