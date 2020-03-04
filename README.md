@@ -8,7 +8,7 @@ This repository is for online courses I have completed :
 - Spark and Python for Big Data with PySpark - Udemy
 - Google Cloud Partform Big Data and Machine Learning - Coursera
 - Modernizing Data Lakes and Data Warehouses with Google Cloud Platform - Coursera
-- Googel Cloud Platform Preparing for the Google Cloud Professional Data Engineer Exam - Coursera
+- Google Cloud Platform Preparing for the Google Cloud Professional Data Engineer Exam - Coursera
 - Serverless Machine Learning with Tensorflow on Google Cloud Platform - Coursera
 - Smart Analytics, Machine Learning, and AI on Google Cloud Platform - Coursera
 
