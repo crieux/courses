@@ -12,7 +12,8 @@ This repository is for online courses I have completed :
 - Serverless Machine Learning with Tensorflow on Google Cloud Platform - Coursera
 - Smart Analytics, Machine Learning, and AI on Google Cloud Platform - Coursera
 - Building Batch Data Pipelines on Google Cloud Platform - Coursera
+- Building Resilient Streaming Analytics Systems on GCP - Coursera
 
 ... more courses might be uploaded in close future
 
-Last update 12/03/2020
+Last update 17/03/2020
