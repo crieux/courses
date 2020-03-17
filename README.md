@@ -11,7 +11,8 @@ This repository is for online courses I have completed :
 - Google Cloud Platform Preparing for the Google Cloud Professional Data Engineer Exam - Coursera
 - Serverless Machine Learning with Tensorflow on Google Cloud Platform - Coursera
 - Smart Analytics, Machine Learning, and AI on Google Cloud Platform - Coursera
+- Building Batch Data Pipelines on Google Cloud Platform - Coursera
 
 ... more courses might be uploaded in close future
 
-Last update 02/03/2020
+Last update 12/03/2020
